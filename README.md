@@ -1,4 +1,4 @@
 # AZ01-DeplyLubonMgmt
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2Fquickstarts%2Fmicrosoft.storage%2Fstorage-account-create%2Fazuredeploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/lubonbvba/AZ01-DeplyLubonMgmt/main/Lubon%20subscription%20management%20with%20PIM.json" target="_blank">
   <img src="https://aka.ms/deploytoazurebutton"/>
 </a>
