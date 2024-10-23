@@ -28,28 +28,7 @@
     "principalIdDisplayName": "LH-AllTenantsCostReader"
    }
   ],
-  "eligibleAuthorizations": [
-   {
-    "justInTimeAccessPolicy": {
-     "multiFactorAuthProvider": "Azure",
-     "maximumActivationDuration": "PT8H",
-     "managedByTenantApprovers": []
-    },
-    "principalId": "a79fe0d8-226d-42f2-ba05-4ca9d9745c74",
-    "principalIdDisplayName": "Admin Agents Azure",
-    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
-   },
-   {
-    "justInTimeAccessPolicy": {
-     "multiFactorAuthProvider": "Azure",
-     "maximumActivationDuration": "PT30M",
-     "managedByTenantApprovers": []
-    },
-    "principalId": "a79fe0d8-226d-42f2-ba05-4ca9d9745c74",
-    "principalIdDisplayName": "Admin Agents Azure",
-    "roleDefinitionId": "91c1777a-f3dc-4fae-b103-61d183457e46"
-   }
-  ]
+  "eligibleAuthorizations": []
  },
  "resources": [
   {
