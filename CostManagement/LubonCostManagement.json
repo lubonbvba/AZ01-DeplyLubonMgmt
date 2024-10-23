@@ -1,6 +1,6 @@
 {
  "$schema": "https://schema.management.azure.com/schemas/2019-08-01/subscriptionDeploymentTemplate.json#",
- "contentVersion": "1.0.0.0",
+ "contentVersion": "1.0.0.1",
  "parameters": {
   "mspOfferName": {
    "type": "string",
@@ -14,7 +14,7 @@
    "metadata": {
     "description": "Name of the Managed Service Provider offering"
    },
-   "defaultValue": "PIM Secured"
+   "defaultValue": "Permission to read all costs"
   }
  },
  "variables": {
